@@ -1,7 +1,7 @@
 # kotscan
 # Contributors: obewyn
 # Donate link: https://github.com/Obewyn/
-# stable tag : 0.1
+# stable tag : 1.0
 
 
 An Android app to scan QR codes using Kotlin programming language and the ZXing library, which is a popular library for QR code scanning
@@ -21,4 +21,6 @@ Make sure you have the necessary permissions in your AndroidManifest.xml
 Run your app on an Android device or emulator, and you should be able to scan QR codes by pressing the "Scan QR Code" button. 
 The scanned result will be displayed in the TextView below the button .
 
-:)
+next release 1.01 integrate direct redirect to app or navigator
+
+best regards :)
